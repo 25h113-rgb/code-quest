@@ -1,0 +1,6 @@
+{
+  "name": "CodeQuest — Level Up Your Coding Skills",
+  "description": "Comprehensive programming education platform for Class 10, 11, and 12 students covering Python, Java, and C++ with 300 structured topics, interactive practice, bilingual explanations, and achievement tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
